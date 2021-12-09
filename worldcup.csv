@@ -1,0 +1,65 @@
+Match,home_team,away_team,home_score,away_score,tournament,city,country,neutral,FTR,HTW Odds,HTD Odds,HTL Odds,Penalties
+63,France,Croatia,4,2,FIFA World Cup,Moscow,Russia,TRUE,Win,116,206,328,N
+62,Belgium,England,2,0,FIFA World Cup,St. Petersburg,Russia,TRUE,Win,119,284,224,N
+61,Croatia,England,2,1,FIFA World Cup,Moscow,Russia,TRUE,Win,293,200,127,N
+60,France,Belgium,1,0,FIFA World Cup,St. Petersburg,Russia,TRUE,Win,161,214,208,N
+59,Russia,Croatia,2,2,FIFA World Cup,Sochi,Russia,FALSE,Loss,309,216,114,Y
+58,Sweden,England,0,2,FIFA World Cup,Samara,Russia,TRUE,Loss,424,239,-118,N
+57,Brazil,Belgium,1,2,FIFA World Cup,Kazan,Russia,TRUE,Loss,112,245,276,N
+56,Uruguay,France,0,2,FIFA World Cup,Nizhny Novgorod,Russia,TRUE,Loss,373,211,102,N
+55,Colombia,England,1,1,FIFA World Cup,Moscow,Russia,TRUE,Loss,309,212,116,Y
+54,Sweden,Switzerland,1,0,FIFA World Cup,St. Petersburg,Russia,TRUE,Win,241,196,152,N
+53,Belgium,Japan,3,2,FIFA World Cup,Rostov-on-Don,Russia,TRUE,Win,-238,370,783,N
+52,Brazil,Mexico,2,0,FIFA World Cup,Samara,Russia,TRUE,Win,-204,344,672,N
+51,Croatia,Denmark,1,1,FIFA World Cup,Nizhny Novgorod,Russia,TRUE,Win,-103,225,373,Y
+50,Russia,Spain,1,1,FIFA World Cup,Moscow,Russia,FALSE,Win,547,311,-169,Y
+49,Uruguay,Portugal,2,1,FIFA World Cup,Sochi,Russia,TRUE,Win,206,200,174,N
+48,France,Argentina,4,3,FIFA World Cup,Kazan,Russia,TRUE,Win,144,211,236,N
+47,England,Belgium,0,1,FIFA World Cup,Kaliningrad,Russia,TRUE,Loss,149,184,266,N
+46,Panama,Tunisia,1,2,FIFA World Cup,Saransk,Russia,TRUE,Loss,336,275,-115,N
+45,Senegal,Colombia,0,1,FIFA World Cup,Samara,Russia,TRUE,Loss,415,277,-132,N
+44,Japan,Poland,0,1,FIFA World Cup,Volgograd,Russia,TRUE,Loss,193,212,173,N
+43,Switzerland,Costa Rica,2,2,FIFA World Cup,Nizhny Novgorod,Russia,TRUE,Draw,-167,267,664,N
+42,Serbia,Brazil,0,2,FIFA World Cup,Moscow,Russia,TRUE,Loss,659,363,-213,N
+41,Mexico,Sweden,0,3,FIFA World Cup,Ekaterinburg,Russia,TRUE,Loss,122,238,257,N
+40,South Korea,Germany,2,0,FIFA World Cup,Kazan,Russia,TRUE,Win,1820,723,-588,N
+39,Iceland,Croatia,1,2,FIFA World Cup,Rostov-on-Don,Russia,TRUE,Loss,340,299,-122,N
+38,Nigeria,Argentina,1,2,FIFA World Cup,St. Petersburg,Russia,TRUE,Loss,492,417,-200,N
+37,Denmark,France,0,0,FIFA World Cup,Moscow,Russia,TRUE,Draw,449,175,106,N
+36,Australia,Peru,0,2,FIFA World Cup,Sochi,Russia,TRUE,Loss,196,250,147,N
+35,Iran,Portugal,1,1,FIFA World Cup,Saransk,Russia,TRUE,Draw,525,309,-167,N
+34,Spain,Morocco,2,2,FIFA World Cup,Kaliningrad,Russia,TRUE,Draw,-278,404,924,N
+33,Saudi Arabia,Egypt,2,1,FIFA World Cup,Volgograd,Russia,TRUE,Win,428,260,-128,N
+32,Russia,Uruguay,0,3,FIFA World Cup,Samara,Russia,FALSE,Loss,195,204,177,N
+31,Poland,Colombia,0,3,FIFA World Cup,Kazan,Russia,TRUE,Loss,252,245,120,N
+30,Japan,Senegal,2,2,FIFA World Cup,Ekaterinburg,Russia,TRUE,Draw,221,194,166,N
+29,England,Panama,6,1,FIFA World Cup,Nizhny Novgorod,Russia,TRUE,Win,-435,532,1741,N
+28,Germany,Sweden,2,1,FIFA World Cup,Sochi,Russia,TRUE,Win,-213,363,672,N
+27,South Korea,Mexico,1,2,FIFA World Cup,Rostov-on-Don,Russia,TRUE,Loss,461,282,-141,N
+26,Belgium,Tunisia,5,2,FIFA World Cup,Moscow,Russia,TRUE,Win,-294,415,1083,N
+25,Serbia,Switzerland,1,2,FIFA World Cup,Kaliningrad,Russia,TRUE,Loss,179,202,198,N
+24,Nigeria,Iceland,2,0,FIFA World Cup,Volgograd,Russia,TRUE,Win,199,209,170,N
+23,Brazil,Costa Rica,2,0,FIFA World Cup,St. Petersburg,Russia,TRUE,Win,-476,572,1850,N
+22,Argentina,Croatia,0,3,FIFA World Cup,Nizhny Novgorod,Russia,TRUE,Loss,110,227,315,N
+21,France,Peru,1,0,FIFA World Cup,Ekaterinburg,Russia,TRUE,Win,-164,286,562,N
+20,Denmark,Australia,1,1,FIFA World Cup,Samara,Russia,TRUE,Draw,-109,242,366,N
+19,Iran,Spain,0,1,FIFA World Cup,Kazan,Russia,TRUE,Loss,1898,575,-500,N
+18,Uruguay,Saudi Arabia,1,0,FIFA World Cup,Rostov-on-Don,Russia,TRUE,Win,-455,568,1745,N
+17,Portugal,Morocco,1,0,FIFA World Cup,Moscow,Russia,TRUE,Win,-143,271,509,N
+16,Russia,Egypt,3,1,FIFA World Cup,St. Petersburg,Russia,FALSE,Win,-104,257,333,N
+15,Poland,Senegal,1,2,FIFA World Cup,Moscow,Russia,TRUE,Loss,152,204,234,N
+14,Colombia,Japan,1,2,FIFA World Cup,Saransk,Russia,TRUE,Loss,-112,233,413,N
+13,Tunisia,England,1,2,FIFA World Cup,Volgograd,Russia,TRUE,Loss,768,324,-204,N
+12,Belgium,Panama,3,0,FIFA World Cup,Sochi,Russia,TRUE,Win,-455,574,1713,N
+11,Sweden,South Korea,1,0,FIFA World Cup,Nizhny Novgorod,Russia,TRUE,Win,125,204,291,N
+10,Brazil,Switzerland,1,1,FIFA World Cup,Rostov-on-Don,Russia,TRUE,Draw,-213,338,739,N
+9,Germany,Mexico,0,1,FIFA World Cup,Moscow,Russia,TRUE,Loss,-200,354,638,N
+8,Costa Rica,Serbia,0,1,FIFA World Cup,Samara,Russia,TRUE,Loss,434,240,-119,N
+7,Croatia,Nigeria,2,0,FIFA World Cup,Kaliningrad,Russia,TRUE,Win,-147,275,515,N
+6,Peru,Denmark,0,1,FIFA World Cup,Saransk,Russia,TRUE,Loss,270,210,133,N
+5,Argentina,Iceland,1,1,FIFA World Cup,Moscow,Russia,TRUE,Draw,-303,434,1052,N
+4,France,Australia,2,1,FIFA World Cup,Kazan,Russia,TRUE,Win,-385,625,967,N
+3,Portugal,Spain,3,3,FIFA World Cup,Sochi,Russia,TRUE,Draw,345,225,102,N
+2,Morocco,Iran,0,1,FIFA World Cup,St. Petersburg,Russia,TRUE,Loss,123,198,321,N
+1,Egypt,Uruguay,0,1,FIFA World Cup,Ekaterinburg,Russia,TRUE,Loss,741,309,-196,N
+0,Russia,Saudi Arabia,5,0,FIFA World Cup,Moscow,Russia,FALSE,Win,-217,332,813,N
